@@ -2,10 +2,13 @@
 
 I'm [Vincent Perez](https://www.linkedin.com/in/thevinceperez/), a Data Analyst based in New York City.  
   
-
+  
 My GitHub includes a lot of solo and collaborative coursework using real world data, finding meaningful insights and creating dashboards 📈  
+  
 I generally focus on NYC Datasets (shout out NYC OpenData!!) and I've been extremely interested in health/healthcare data.  
+  
 My tech stack includes Python and SQL. I'm a fan of using tools like Figma and of course, the old reliable Jupyter Notebook! 😎   
+  
   
 ## Some projects I'm proud about:
 ###  [my first project](https://github.com/vrpperez7/M0BusinessDataAnalysis_Perez) 😲
