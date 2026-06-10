@@ -11,14 +11,14 @@ My tech stack includes Python and SQL. I'm a fan of using tools like Figma and o
   
   
 ## Some projects I'm proud about:
-###  [my first project](https://github.com/vrpperez7/M0BusinessDataAnalysis_Perez) 😲
-- going through the data lifeycle for the first time
-- opened my eyes to how data can tell stories
-
 ### [department of sanitation recycling forecasting](https://github.com/vrpperez7/M6DSNY_Analysis)
 - in depth analysis including user input, three separate time series models, and a deployable streamlit app
 - evaluated models using RMSE
 - potential tool for the DSNY to predict their forecasting for operational resource allocation
+
+###  [my first project](https://github.com/vrpperez7/M0BusinessDataAnalysis_PerezV)) 😲
+- going through the data lifeycle for the first time
+- opened my eyes to how data can tell stories  
 
 thanks for checking out my github, hope you enjoy checking out my projects 🙌
 
