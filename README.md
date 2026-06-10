@@ -1,23 +1,27 @@
 ## What's up!
 
-I'm Vincent, a Data Analyst based in New York City.
+I'm [Vincent Perez](https://www.linkedin.com/in/thevinceperez/), a Data Analyst based in New York City.  
+  
 
-I generally focus on NYC Datasets (shout out NYC OpenData!!) and I've been extremely interested in healthcare. 
-Finding underlying stories within data 
-My tech stack includes Python and SQL. I'm a fan of using tools like Figma and of course, the old reliable Jupyter Notebook! 😎
+My GitHub includes a lot of solo and collaborative coursework using real world data, finding meaningful insights and creating dashboards 📈  
+I generally focus on NYC Datasets (shout out NYC OpenData!!) and I've been extremely interested in health/healthcare data.  
+My tech stack includes Python and SQL. I'm a fan of using tools like Figma and of course, the old reliable Jupyter Notebook! 😎   
+  
+## Some projects I'm proud about:
+###  [my first project](https://github.com/vrpperez7/M0BusinessDataAnalysis_Perez) 😲
+- going through the data lifeycle for the first time
+- opened my eyes to how data can tell stories
 
+### [department of sanitation recycling forecasting](https://github.com/vrpperez7/M6DSNY_Analysis)
+- in depth analysis including user input, three separate time series models, and a deployable streamlit app
+- evaluated models using RMSE
+- potential tool for the DSNY to predict their forecasting for operational resource allocation
 
-<!--
-**vrpperez7/vrpperez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thanks for checking out my github, hope you enjoy checking out my projects 🙌
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img         src="https://www.wastetodaymagazine.com/remote/aHR0cHM6Ly9naWVjZG4uYmxvYi5jb3JlLndpbmRvd3MubmV0L2ZpbGV1cGxvYWRzL2ltYWdlLzIwMjQvMTIvMTAvYWRvYmVzdG9ja181Nzc2Mjg2MTJfZWRpdG9yaWFsX3VzZV9vbmx5X2RzbnlfbG9nby5naWY.Lapt4I6wKNE.gif?format=webp](https://media.licdn.com/dms/image/v2/C4D22AQFG6pf4nfhMdQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1639734444551?e=1782950400&v=beta&t=hm5JXPLwG-jI4WrFd_0EYAOgp3FLRMD4m49mFMnNJVQ)"
+    width="400"
+    alt="meme"
+  />
+</p>
