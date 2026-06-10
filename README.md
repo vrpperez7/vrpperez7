@@ -20,7 +20,7 @@ My tech stack includes Python and SQL. I'm a fan of using tools like Figma and o
 thanks for checking out my github, hope you enjoy checking out my projects 🙌
 
 <p align="center">
-  <img         src="https://www.wastetodaymagazine.com/remote/aHR0cHM6Ly9naWVjZG4uYmxvYi5jb3JlLndpbmRvd3MubmV0L2ZpbGV1cGxvYWRzL2ltYWdlLzIwMjQvMTIvMTAvYWRvYmVzdG9ja181Nzc2Mjg2MTJfZWRpdG9yaWFsX3VzZV9vbmx5X2RzbnlfbG9nby5naWY.Lapt4I6wKNE.gif?format=webp](https://media.licdn.com/dms/image/v2/C4D22AQFG6pf4nfhMdQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1639734444551?e=1782950400&v=beta&t=hm5JXPLwG-jI4WrFd_0EYAOgp3FLRMD4m49mFMnNJVQ)"
+  <img         src="https://media.licdn.com/dms/image/v2/C4D22AQFG6pf4nfhMdQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1639734444551?e=1782950400&v=beta&t=hm5JXPLwG-jI4WrFd_0EYAOgp3FLRMD4m49mFMnNJVQ"
     width="400"
     alt="meme"
   />
