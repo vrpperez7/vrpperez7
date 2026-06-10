@@ -1,4 +1,11 @@
-## Hi there 👋
+## What's up!
+
+I'm Vincent, a Data Analyst based in New York City.
+
+I generally focus on NYC Datasets (shout out NYC OpenData!!) and I've been extremely interested in healthcare. 
+Finding underlying stories within data 
+My tech stack includes Python and SQL. I'm a fan of using tools like Figma and of course, the old reliable Jupyter Notebook! 😎
+
 
 <!--
 **vrpperez7/vrpperez7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
