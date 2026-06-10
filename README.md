@@ -1,6 +1,6 @@
 ## What's up!
 
-I'm [Vincent Perez](https://www.linkedin.com/in/thevinceperez/), a Data Analyst based in New York City.  
+I'm [Vincent](https://www.linkedin.com/in/thevinceperez/), a Data Analyst based in New York City.  
   
   
 My GitHub includes a lot of solo and collaborative coursework using real world data, finding meaningful insights and creating dashboards 📈  
